@@ -108,7 +108,7 @@ DATABASE_URL = "postgresql://postgres:postgres@localhost:5432/escola"
 1. Ative o ambiente virtual:
 
 ```powershell
-& "d:\ALURA\1.python\Banco de dados\Projeto\venv\Scripts\Activate.ps1"
+& "\venv\Scripts\Activate.ps1"
 ```
 
 2. Instale as dependências:
